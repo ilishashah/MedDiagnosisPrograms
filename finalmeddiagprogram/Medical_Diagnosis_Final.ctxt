@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Medical_Diagnosis_Final
+comment1.params=
+comment1.target=void\ main()
+comment2.params=question\ scanner
+comment2.target=boolean\ method1(java.lang.String,\ java.util.Scanner)
+comment3.params=cough\ sorethroat\ chestpain\ breath\ wheezing\ stomachPain\ nausea\ vomiting\ diarrhea\ bloating\ jointPain\ muscleWeakness\ stiffness\ headache\ dizziness\ confusion\ rash\ itching\ redness\ f1\ f2
+comment3.target=void\ diagnose(boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean)
+numComments=4
